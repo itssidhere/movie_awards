@@ -6,12 +6,15 @@ from django.shortcuts import render
 from django.http import JsonResponse
 from rest_framework.decorators import api_view
 import json
+import os
+
+api_key = os.environ.get("OMDB_API_KEY")
 
 
 @api_view(["GET"])
 def search_movie(request):
     search_term = request.GET.get("search_term", "")
-    response = requests.get(f"http://www.omdbapi.com/?apikey=9c25ce60&s={search_term}")
+    response = requests.get(f"http://www.omdbapi.com/?apikey={api_key}&s={search_term}")
 
     if response.status_code == 200:
         data = response.json()  # convert to python dictionary
@@ -67,7 +70,7 @@ def save_movie(request):
     if movie:
         return JsonResponse({"error": "Movie already saved."})
 
-    response = requests.get(f"http://www.omdbapi.com/?apikey=9c25ce60&i={imdb_id}")
+    response = requests.get(f"http://www.omdbapi.com/?apikey={api_key}&i={imdb_id}")
 
     if response.status_code == 200:
         data = response.json()
