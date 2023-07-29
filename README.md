@@ -32,7 +32,7 @@
 
 1. Navigate to the `frontend/my-movie-awards-app` directory.
 2. Install the required npm dependencies using the command: `npm install`.
-3. Start the development server with the command: `npm start`.
+3. Start the development server with the command: `npm run dev`.
 
 ## Configuration
 
