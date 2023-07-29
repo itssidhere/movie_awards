@@ -1,6 +1,8 @@
+
+
 # Movie Awards
 
- Movie Awards is a web application built with React.js and Django that allows users to search for movies using the OMDB API and save their favorite films to a database. The app provides a user-friendly interface to perform movie searches, view search results, add movies to the database, and manage the saved movies list.
+Movie Awards is a web application built with React.js and Django that allows users to search for movies using the OMDB API and save their favorite films to a database. The app provides a user-friendly interface to perform movie searches, view search results, add movies to the database, and manage the saved movies list.
 
 ## Features
 
