@@ -1,6 +1,6 @@
 
 [![Video Demo](https://markdown-videos.deta.dev/youtube/4ItOTQWym08)](https://www.youtube.com/watch?v=4ItOTQWym08)
-[![Video Demo](https://img.youtube.com/vi/4ItOTQWym08/0.jpg)](https://www.youtube.com/watch?v=4ItOTQWym08)
+
 
 
 # Movie Awards
