@@ -1,7 +1,10 @@
 
 
 
-https://github.com/itssidhere/movie_awards/assets/16454736/65a2bc64-c9b7-4890-b9ff-c6931e4135a4
+
+
+https://github.com/itssidhere/movie_awards/assets/16454736/68f14220-1856-4fc0-a2bb-5681122c7eea
+
 
 
 # Movie Awards
