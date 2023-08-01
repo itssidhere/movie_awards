@@ -1,5 +1,8 @@
 
-[![Video Demo](https://img.youtube.com/vi/4ItOTQWym08/0.jpg)](https://www.youtube.com/watch?v=4ItOTQWym08)
+
+
+https://github.com/itssidhere/movie_awards/assets/16454736/65a2bc64-c9b7-4890-b9ff-c6931e4135a4
+
 
 # Movie Awards
 
